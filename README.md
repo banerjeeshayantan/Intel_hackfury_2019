@@ -20,8 +20,8 @@ Run the commands in the following order:
 * pip install -r requirements.txt
 * python -m nltk.downloader stopwords punkt
 
-###Running the notebooks
-There are three notebooks that needs to be run in order to get the results mentioned in the report. Before that you need to create
+### Running the notebooks
+There are three notebooks in the above folder that needs to be run in order to get the results mentioned in the report. Before that you need to create
 an IntelPython environment (more details below) and install all the dependencies mentioned above. The data used for the analysis 
 is not open-access. 
 
