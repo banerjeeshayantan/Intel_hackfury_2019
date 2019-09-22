@@ -1,6 +1,6 @@
 # SepTrack 
 
-An efficient sepsis-onset tracker built using machine learning techniques to monitor high-risk patients
+An efficient sepsis mortality risk tracker built using machine learning techniques to monitor high-risk patients
 
 
 ## Getting Started
