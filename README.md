@@ -25,13 +25,15 @@ There are three notebooks in the above folder that needs to be run in order to g
 an IntelPython environment (more details below) and install all the dependencies mentioned above. The data used for the analysis 
 is not open-access. 
 
-## Built With
+### Built With
  
 * [Intel DAAL framework](https://software.intel.com/en-us/daal)
 * [Intel distribution for Python](https://software.intel.com/en-us/distribution-for-python)
 * [NLTK](https://www.nltk.org/) - Natural language processing
 * [sklearn](https://scikit-learn.org/) - Machine learning 
 
+### Comparison of different classifers' runtime while running on DAAL vs sklearn
+The comparison plots (clinical.png, text.png and joint.png) shows how DAAL speeds up the computation time for different feature sets as compared to sklearn
 
 ## Authors
 
